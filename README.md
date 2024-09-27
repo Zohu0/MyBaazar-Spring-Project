@@ -39,14 +39,16 @@ MyBazaar is an e-commerce application built with React on the frontend and Sprin
    git clone https://github.com/Zohu0/MyBaazar-Spring-Project.git
    cd MyBaazar-Spring-Project
    cd backend
+   mvn spring-boot:run
+   cd ../frontend
+   npm install
+   npm start
+
+
+
+
+
+
 
   
-cd backend
 
-mvn spring-boot:run
-
-cd ../frontend
-
-npm install
-
-npm start
