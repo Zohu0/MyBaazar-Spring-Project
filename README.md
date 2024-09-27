@@ -1,6 +1,6 @@
-# MyBazaar
+# MyBaazaar
 
-MyBazaar is an e-commerce application built with React on the frontend and Spring Boot with MySQL on the backend. The application provides users with a seamless experience for browsing and managing products.
+MyBaazaar is an e-commerce application built with React on the frontend and Spring Boot with MySQL on the backend. The application provides users with a seamless experience for browsing and managing products.
 
 ## Features
 
